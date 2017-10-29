@@ -3,7 +3,10 @@
   "version": "0.0.1",
   "description": "A transparent hyper theme with muted/pastel colours",
   "main": "index.js",
-  "repository": "https://github.com/mcfio/hyper-kage",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcfio/hyper-kage.git"
+  },
   "keywords": [
     "hyper",
     "hyper-theme",
@@ -12,5 +15,12 @@
     "kage"
   ],
   "author": "Nick McFaul",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mcfio/hyper-kage/issues"
+  },
+  "homepage": "https://github.com/mcfio/hyper-kage#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
