@@ -1,0 +1,16 @@
+{
+  "name": "hyper-rkage",
+  "version": "0.0.1",
+  "description": "A transparent hyper theme with muted pastel colours",
+  "main": "index.js",
+  "repository": "https://github.com/mcfio/hyper-rkage",
+  "keywords": [
+    "hyper",
+    "hyper-theme",
+    "colors",
+    "transparent",
+    "kage"
+  ],
+  "author": "Nick McFaul",
+  "license": "MIT"
+}
